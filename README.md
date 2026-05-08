@@ -6,47 +6,45 @@ style="border-radius:25px;"/>
 
 <br><br>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=52&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=1000&lines=✦+AnthZz+Berrocal+✦;⚡+BerMatCode+⚡;Bot+Developer+•+Automation+Engineer" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2200&pause=700&color=FF00FF&center=true&vCenter=true&width=1100&lines=✦+AnthZz+Berrocal+✦;⚡+BerMatCode+⚡;Bot+Developer+•+Automation+Engineer" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:a020f0,100:ff66ff&height=4&section=header"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=🚀+Advanced+Bot+Developer;🤖+Automation+%26+AI+Systems;⚡+Powered+By+BerMatCode" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-a020f0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-ff00ff?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:a020f0,100:ff66ff&height=140&section=header&reversal=false&animation=twinkling&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:a020f0,100:ff66ff&height=140&section=header&text=Welcome%20To%20My%20Profile&fontSize=38&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
 ---
 
-# 🚀 **PERFIL PROFESIONAL**
-
 <div align="center">
 
-## 👨‍💻 **Información**
-
-╭──────────────────────────────────────╮  
-│ ⚡ **Nombre:** AnthZz Berrocal       │  
-│ 🤖 **Alias:** BerMatCode            │  
-│ 📲 **Developer MultiDevice**        │  
-│ 🧠 **Automation Engineer**          │  
-│ 🔐 **Optimización & IA**            │  
-╰──────────────────────────────────────╯  
-
-</div>
+# 🚀 **PERFIL PROFESIONAL**
 
 <br>
 
-<div align="center">
+╭──────────────────────────────────────╮  
+│ ⚡ **Nombre:** AnthZz Berrocal        │  
+│ 🤖 **Alias:** BerMatCode             │  
+│ 📲 **Developer MultiDevice**         │  
+│ 🧠 **Automation Engineer**           │  
+│ 🔐 **Optimización & IA**             │  
+╰──────────────────────────────────────╯  
+
+<br><br>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00f7ff?style=for-the-badge&logo=icloud&logoColor=white"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-a020f0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/SECURITY-OPTIMIZED-ff00ff?style=for-the-badge&logo=shield&logoColor=white"/>
 
@@ -54,9 +52,9 @@ style="border-radius:25px;"/>
 
 ---
 
-# 🌐 **ÁREAS DE DESARROLLO**
-
 <div align="center">
+
+# 🌐 **ÁREAS DE DESARROLLO**
 
 | 🤖 **Bots** | ⚙️ **Automatización** | 🧠 **Inteligencia Artificial** |
 |:---:|:---:|:---:|
@@ -69,13 +67,13 @@ style="border-radius:25px;"/>
 
 ---
 
-# ⚡ **PROYECTOS DESTACADOS**
-
 <div align="center">
+
+# ⚡ **PROYECTOS DESTACADOS**
 
 <table>
 <tr>
-<td width="33%">
+<td align="center" width="33%">
 
 ## 🤖 **BerMat-Bot MD**
 
@@ -86,7 +84,7 @@ style="border-radius:25px;"/>
 🔐 **Protección Avanzada**  
 
 </td>
-<td width="33%">
+<td align="center" width="33%">
 
 ## 📲 **WhatsApp Mod**
 
@@ -97,7 +95,7 @@ style="border-radius:25px;"/>
 🚀 **Funciones Extendidas**  
 
 </td>
-<td width="33%">
+<td align="center" width="33%">
 
 ## 🧠 **Automation & IA**
 
@@ -115,9 +113,9 @@ style="border-radius:25px;"/>
 
 ---
 
-# 🛠️ **STACK TECNOLÓGICO**
-
 <div align="center">
+
+# 🛠️ **STACK TECNOLÓGICO**
 
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,bash,github,linux,vscode"/>
 
@@ -133,21 +131,23 @@ style="border-radius:25px;"/>
 
 ---
 
-# 📊 **ESTADÍSTICAS**
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BerMatMods&show_icons=true&theme=tokyonight&hide_border=true"/>
+# 📊 **ESTADÍSTICAS**
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BerMatMods&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=BerMatMods&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=BerMatMods&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌌 **PERFIL ACTIVO**
-
 <div align="center">
+
+# 🌌 **PERFIL ACTIVO**
 
 <img src="https://komarev.com/ghpvc/?username=BerMatMods&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
@@ -161,9 +161,9 @@ style="border-radius:25px;"/>
 
 ---
 
-# 🔗 **REDES SOCIALES**
-
 <div align="center">
+
+# 🔗 **REDES SOCIALES**
 
 <a href="https://github.com/BerMatMods">
 <img src="https://img.shields.io/badge/GitHub-BerMatMods-111111?style=for-the-badge&logo=github&logoColor=00f7ff"/>
@@ -191,9 +191,9 @@ style="border-radius:25px;"/>
 
 ---
 
-# 💎 **FRASE PERSONAL**
-
 <div align="center">
+
+# 💎 **FRASE PERSONAL**
 
 ╔══════════════════════════════════════╗  
 ║ ✨ **"El código no solo se escribe…"** ✨ ║  
