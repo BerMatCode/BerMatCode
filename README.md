@@ -6,15 +6,19 @@ style="border-radius:25px;"/>
 
 <br><br>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=✦+AnthZz+Berrocal+✦;⚡+BerMatCode+⚡;Bot+Developer+•+Automation+Engineer" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=52&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=1000&lines=✦+AnthZz+Berrocal+✦;⚡+BerMatCode+⚡;Bot+Developer+•+Automation+Engineer" />
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-a020f0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-ff00ff?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:a020f0,100:ff66ff&height=4&section=header"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=🚀+Advanced+Bot+Developer;🤖+Automation+%26+AI+Systems;⚡+Powered+By+BerMatCode" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:a020f0,100:ff66ff&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:a020f0,100:ff66ff&height=140&section=header&reversal=false&animation=twinkling&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
@@ -24,36 +28,27 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
 ## 👨‍💻 **Información**
 
-╭────────────────────────────╮  
-│ ⚡ **Nombre:** AnthZz Berrocal │  
-│ 🤖 **Alias:** BerMatCode       │  
-│ 📲 **Developer MultiDevice**   │  
-│ 🧠 **Automation Engineer**     │  
-│ 🔐 **Optimización & IA**       │  
-╰────────────────────────────╯  
+╭──────────────────────────────────────╮  
+│ ⚡ **Nombre:** AnthZz Berrocal       │  
+│ 🤖 **Alias:** BerMatCode            │  
+│ 📲 **Developer MultiDevice**        │  
+│ 🧠 **Automation Engineer**          │  
+│ 🔐 **Optimización & IA**            │  
+╰──────────────────────────────────────╯  
 
-</td>
-<td width="50%">
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00f7ff?style=for-the-badge&logo=icloud&logoColor=white"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-a020f0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/SECURITY-OPTIMIZED-ff00ff?style=for-the-badge&logo=shield&logoColor=white"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -215,6 +210,6 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:a020f0,100:ff66ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:a020f0,100:ff66ff&height=140&section=footer&animation=twinkling"/>
 
 </div>
