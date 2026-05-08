@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://i.postimg.cc/rw1XfGjF/1760073116-(1).png"
@@ -7,7 +6,7 @@ style="border-radius:25px;"/>
 
 <br><br>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=52&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1200&lines=✦+AnthZz+Berrocal+✦;⚡+BerMatCode+⚡;Bot+Developer+•+Automation+Engineer" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=56&duration=3500&pause=1400&color=00F7FF&center=true&vCenter=true&width=1250&lines=✦+AnthZz+Berrocal+✦;⚡+BerMatCode+⚡;Bot+Developer+•+Automation+Engineer" />
 
 <br>
 
@@ -17,7 +16,7 @@ style="border-radius:25px;"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a020f0,100:ff00ff&height=150&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a020f0,100:ff00ff&height=160&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
@@ -25,31 +24,31 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2400&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=PERFIL+PROFESIONAL" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3200&pause=1300&color=A020F0&center=true&vCenter=true&width=800&lines=PERFIL+PROFESIONAL" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=⚡+AnthZz+Berrocal"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4200&pause=1600&color=000000&center=true&vCenter=true&width=1150&height=70&lines=⚡+AnthZz+Berrocal"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=🤖+BerMatCode"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4200&pause=1600&color=000000&center=true&vCenter=true&width=1150&height=70&lines=🤖+BerMatCode"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=📲+Developer+MultiDevice"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4200&pause=1600&color=000000&center=true&vCenter=true&width=1150&height=70&lines=📲+Developer+MultiDevice"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=🧠+Automation+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4200&pause=1600&color=000000&center=true&vCenter=true&width=1150&height=70&lines=🧠+Automation+Engineer"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=🔐+Especialista+en+Optimización+%26+IA"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4200&pause=1600&color=000000&center=true&vCenter=true&width=1150&height=70&lines=🔐+Especialista+en+Optimización+%26+IA"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1200&height=60&lines=🚀+Desarrollo+de+Bots+y+Automatización"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4200&pause=1600&color=000000&center=true&vCenter=true&width=1300&height=70&lines=🚀+Desarrollo+de+Bots+y+Automatización"/>
 
 </div>
 
@@ -57,7 +56,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2400&pause=1000&color=FF66FF&center=true&vCenter=true&width=750&lines=AREAS+DE+DESARROLLO" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3200&pause=1300&color=FF66FF&center=true&vCenter=true&width=850&lines=AREAS+DE+DESARROLLO" />
 
 <br>
 
@@ -74,7 +73,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2400&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=PROYECTOS+DESTACADOS" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3200&pause=1300&color=00F7FF&center=true&vCenter=true&width=850&lines=PROYECTOS+DESTACADOS" />
 
 <br>
 
@@ -122,7 +121,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2400&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=STACK+TECNOLOGICO" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3200&pause=1300&color=A020F0&center=true&vCenter=true&width=800&lines=STACK+TECNOLOGICO" />
 
 <br>
 
@@ -142,15 +141,15 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2400&pause=1000&color=FF66FF&center=true&vCenter=true&width=700&lines=ESTADISTICAS" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3200&pause=1300&color=FF66FF&center=true&vCenter=true&width=800&lines=ESTADISTICAS" />
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BerMatMods&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=BerMatMods&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=BerMatMods&theme=tokyonight&hide_border=true"/>
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=BerMatMods&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -158,7 +157,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2400&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=PERFIL+ACTIVO" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3200&pause=1300&color=00F7FF&center=true&vCenter=true&width=800&lines=PERFIL+ACTIVO" />
 
 <br>
 
@@ -170,7 +169,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2400&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=REDES+SOCIALES" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3200&pause=1300&color=A020F0&center=true&vCenter=true&width=800&lines=REDES+SOCIALES" />
 
 <br>
 
@@ -196,7 +195,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2400&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=FRASE+PERSONAL" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3200&pause=1300&color=FF00FF&center=true&vCenter=true&width=800&lines=FRASE+PERSONAL" />
 
 <br>
 
@@ -205,9 +204,9 @@ style="border-radius:25px;"/>
 ║ ⚡ **"Se diseña, optimiza y domina."** ⚡ ║  
 ╚══════════════════════════════════════╝  
 
-<br>
+<br><br>
 
-# ⚡ **Anth'Zz Berrocal – BerMatCode**
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=4200&pause=1800&color=000000&center=true&vCenter=true&width=1000&height=80&lines=⚡+Anth'Zz+Berrocal+–+BerMatCode"/>
 
 </div>
 
@@ -215,6 +214,6 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a020f0,100:ff00ff&height=150&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a020f0,100:ff00ff&height=160&section=footer&animation=twinkling"/>
 
 </div>
