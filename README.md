@@ -1,110 +1,151 @@
-```markdown
 <div align="center">
 
-<img src="https://i.postimg.cc/rw1XfGjF/1760073116-(1).png" width="100%" style="border-radius:20px;"/>
+<img src="https://i.postimg.cc/rw1XfGjF/1760073116-(1).png"
+width="100%"
+style="border-radius:25px;"/>
 
-<br>
+<br><br>
 
-# ✦ AnthZz Berrocal ✦
-### ⚡ BerMatCode ⚡
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=✦+AnthZz+Berrocal+✦;⚡+BerMatCode+⚡;Bot+Developer+•+Automation+Engineer" />
 
-🤖 Bot Developer • 📲 WhatsApp Mod Developer • 🧠 Automation Engineer
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-a020f0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-ff00ff?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a020f0,100:ff00ff&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-## 🚀 Perfil Profesional
+# 🚀 PERFIL PROFESIONAL
 
-> 💻 Desarrollo avanzado de Bots Multi-Device  
-> 📲 Modificación y personalización profesional de WhatsApp  
-> 🧠 Automatización inteligente con Python + APIs  
-> ⚙️ Integración de IA en sistemas conversacionales  
-> 🔐 Optimización, rendimiento y seguridad  
+<table align="center">
+<tr>
+<td width="50%">
 
-🟢 **Estado:** `ONLINE` &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 **Modo:** `DESARROLLO ACTIVO`
+```yaml
+👨‍💻 Nombre: AnthZz Berrocal
+⚡ Alias: BerMatCode
+📍 Especialidad: Bots & Automation
+🤖 IA: Integración Conversacional
+🔐 Seguridad: Optimización y Rendimiento
+📲 Experiencia: WhatsApp Mods
 
+</td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=BerMatMods&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/></td>
+</tr>
+</table>
 ---
 
-## 🌐 Proyectos Destacados
+🌐 ÁREAS DE DESARROLLO
 
-### ⚡ BerMat-Bot MD
-| Característica | Descripción |
-|---------------|-------------|
-| 🤖 IA Integrada | Comandos inteligentes con procesamiento de lenguaje |
-| 🎮 WhatsApp Mod | Versión personalizada con funciones exclusivas |
-| 🛠️ Auto-Admin | Gestión automática de grupos y usuarios |
-| 📡 Escalable | Arquitectura preparada para múltiples instancias |
-| 🔐 Seguridad | Protección anti-spam y validación de permisos |
+<div align="center">💻 Desarrollo	⚙️ Automatización	🤖 Inteligencia Artificial
 
-> *Ecosistema inteligente de automatización para WhatsApp.*
+Bots Multi-Device	Scripts Inteligentes	Sistemas Conversacionales
+WhatsApp Mods	Integración API	IA para Automatización
+Interfaces Modernas	Procesos Automáticos	Respuestas Inteligentes
+Optimización	Sistemas Escalables	Aprendizaje Integrado
 
----
-
-### 📲 WhatsApp Mod Project
-| Característica | Descripción |
-|---------------|-------------|
-| 🎨 UI Personalizada | Interfaz moderna con temas personalizables |
-| 🚀 Funciones Extendidas | Herramientas premium desbloqueadas |
-| 🤖 Bot Integration | Conexión nativa con sistemas de automatización |
-| ⚡ Optimizado | Rendimiento mejorado y bajo consumo |
-| 🛡️ Control Total | Configuración avanzada para usuarios expertos |
-
-> *Experiencia mejorada y profesional del mensajero.*
-
----
-
-### 🧠 Automatización & IA
-- 🐍 Scripts en Python para tareas repetitivas
-- 🌐 Integración con APIs REST y Webhooks
-- 📊 Sistemas de monitoreo y reportes automáticos
-- 🔐 Laboratorios educativos de ciberseguridad
-
----
-
-## 🛠️ Stack Tecnológico
-
-```
-🐍 Python    ☕ Java      🌐 HTML/CSS/JS
-🐧 Bash      📱 Termux   🔗 GitHub
-🤖 APIs      ⚙️ Docker   🗄️ SQLite/MySQL
-```
-
-**Herramientas:** VS Code • Git • Postman • ngrok • Render • Railway
-
----
-
-## 🔗 Conecta Conmigo
-
-<p align="center">
-  <a href="https://github.com/BerMatMods">
-    <img src="https://img.shields.io/badge/GitHub-BerMatMods-181717?style=for-the-badge&logo=github&logoColor=00f7ff"/>
-  </a>
-  <a href="https://t.me/BerMatMods">
-    <img src="https://img.shields.io/badge/Telegram-BerMatMods-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/51930569195">
-    <img src="https://img.shields.io/badge/WhatsApp-+51930569195-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/anthzzberrocal">
-    <img src="https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💎 Frase Personal
-
-> ✨ *"El código no solo se escribe… se diseña, se optimiza y se domina."*  
-> ⚡ **Anth'Zz Berrocal – BerMatCode**
-
----
-
-<div align="center">
-
-###### 🔹 Proyectos construidos con pasión y precisión 🔹
-
-<img src="https://komarev.com/ghpvc/?username=BerMatMods&label=Profile+Views&color=00f7ff&style=flat-square" alt="views"/>
 
 </div>
+---
+
+⚡ PROYECTOS DESTACADOS
+
+🤖 BerMat-Bot MD
+
++ IA Integrada
++ Sistema Multi-Device
++ Administración Automática
++ Protección Avanzada
++ Arquitectura Escalable
+
+> Ecosistema inteligente de automatización avanzada para WhatsApp.
+
+
+
+
+---
+
+📲 WhatsApp Mod Project
+
+> Interfaz personalizada
+> Integración con Bots
+> Funciones Extendidas
+> Optimización de Rendimiento
+> Control Profesional Avanzado
+
+> Experiencia visual y funcional mejorada para mensajería moderna.
+
+
+
+
+---
+
+🧠 Automatización & IA
+
+# Python Automation
+# Integración con APIs
+# Sistemas Inteligentes
+# Simulación Educativa
+# Automatización Avanzada
+
+
+---
+
+🛠️ STACK TECNOLÓGICO
+
+<div align="center"><img src="https://skillicons.dev/icons?i=python,java,html,css,js,bash,github,vscode,linux"/></div>
+---
+
+📊 ESTADÍSTICAS
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=BerMatMods&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BerMatMods&theme=tokyonight&hide_border=true"/></div>
+---
+
+🧠 TECNOLOGÍAS Y ENTORNO
+
+<div align="center"><img src="https://img.shields.io/badge/Python-00f7ff?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-a020f0?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-ff00ff?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-00f7ff?style=for-the-badge&logo=css3&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-a020f0?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Termux-0f0f1a?style=for-the-badge&logo=android&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff"/></div>
+---
+
+🌌 VISITAS AL PERFIL
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=BerMatMods&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/></div>
+---
+
+🔗 REDES SOCIALES
+
+<div align="center"><a href="https://github.com/BerMatMods">
+<img src="https://img.shields.io/badge/GitHub-BerMatMods-111111?style=for-the-badge&logo=github&logoColor=00f7ff"/>
+</a><a href="https://t.me/BerMatMods">
+<img src="https://img.shields.io/badge/Telegram-BerMatMods-1a0033?style=for-the-badge&logo=telegram&logoColor=00f7ff"/>
+</a><a href="https://wa.me/51930569195">
+<img src="https://img.shields.io/badge/WhatsApp-930569195-111111?style=for-the-badge&logo=whatsapp&logoColor=00ff88"/>
+</a><a href="https://www.facebook.com/anthzzberrocal">
+<img src="https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1a0033?style=for-the-badge&logo=facebook&logoColor=00f7ff"/>
+</a></div>
+---
+
+💎 FRASE PERSONAL
+
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/><br><br>
+
+✨ "El código no solo se escribe…
+se diseña, se optimiza y se domina." ✨
+
+⚡ Anth'Zz Berrocal – BerMatCode
+
+</div>
+---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a020f0,100:ff00ff&height=120&section=footer"/></div>
 ```
