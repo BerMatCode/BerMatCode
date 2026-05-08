@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://i.postimg.cc/rw1XfGjF/1760073116-(1).png"
@@ -28,7 +29,27 @@ style="border-radius:25px;"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2600&pause=1200&color=00F7FF&center=true&vCenter=true&width=1100&height=180&lines=⚡+AnthZz+Berrocal;🤖+BerMatCode;📲+Developer+MultiDevice;🧠+Automation+Engineer;🔐+Especialista+en+Optimización+%26+IA;🚀+Desarrollo+de+Bots+y+Automatización" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=⚡+AnthZz+Berrocal"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=🤖+BerMatCode"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=📲+Developer+MultiDevice"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=🧠+Automation+Engineer"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=60&lines=🔐+Especialista+en+Optimización+%26+IA"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1200&height=60&lines=🚀+Desarrollo+de+Bots+y+Automatización"/>
 
 </div>
 
