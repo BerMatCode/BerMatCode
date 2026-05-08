@@ -6,7 +6,7 @@ style="border-radius:25px;"/>
 
 <br><br>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=✦+AnthZz+Berrocal+✦;⚡+BerMatCode+⚡;Bot+Developer+•+Automation+Engineer" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=✦+AnthZz+Berrocal+✦;⚡+BerMatCode+⚡;Bot+Developer+•+Automation+Engineer" />
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge&logo=icloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/MODE-DEVELOPMENT-a020f0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -14,13 +14,13 @@ style="border-radius:25px;"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a020f0,100:ff00ff&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:a020f0,100:ff66ff&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 🚀 PERFIL PROFESIONAL
+# 🚀 **PERFIL PROFESIONAL**
 
 <div align="center">
 
@@ -28,14 +28,14 @@ style="border-radius:25px;"/>
 <tr>
 <td width="50%">
 
-## 👨‍💻 Información
+## 👨‍💻 **Información**
 
 ╭────────────────────────────╮  
-│ ⚡ Nombre: AnthZz Berrocal │  
-│ 🤖 Alias: BerMatCode       │  
-│ 📲 Developer MultiDevice   │  
-│ 🧠 Automation Engineer     │  
-│ 🔐 Optimización & IA       │  
+│ ⚡ **Nombre:** AnthZz Berrocal │  
+│ 🤖 **Alias:** BerMatCode       │  
+│ 📲 **Developer MultiDevice**   │  
+│ 🧠 **Automation Engineer**     │  
+│ 🔐 **Optimización & IA**       │  
 ╰────────────────────────────╯  
 
 </td>
@@ -59,22 +59,22 @@ style="border-radius:25px;"/>
 
 ---
 
-# 🌐 ÁREAS DE DESARROLLO
+# 🌐 **ÁREAS DE DESARROLLO**
 
 <div align="center">
 
-| 🤖 Bots | ⚙️ Automatización | 🧠 Inteligencia Artificial |
+| 🤖 **Bots** | ⚙️ **Automatización** | 🧠 **Inteligencia Artificial** |
 |:---:|:---:|:---:|
-| WhatsApp Bots | Procesos Inteligentes | Sistemas Conversacionales |
-| Multi-Device | Integración API | IA Automática |
-| Funciones Avanzadas | Scripts Python | Aprendizaje Inteligente |
-| Seguridad | Optimización | Automatización |
+| **WhatsApp Bots** | **Procesos Inteligentes** | **Sistemas Conversacionales** |
+| **Multi-Device** | **Integración API** | **IA Automática** |
+| **Funciones Avanzadas** | **Scripts Python** | **Aprendizaje Inteligente** |
+| **Seguridad** | **Optimización** | **Automatización** |
 
 </div>
 
 ---
 
-# ⚡ PROYECTOS DESTACADOS
+# ⚡ **PROYECTOS DESTACADOS**
 
 <div align="center">
 
@@ -82,35 +82,35 @@ style="border-radius:25px;"/>
 <tr>
 <td width="33%">
 
-## 🤖 BerMat-Bot MD
+## 🤖 **BerMat-Bot MD**
 
-✨ IA Integrada  
-🎮 Sistema MultiDevice  
-🛠️ Administración Automática  
-📡 Arquitectura Escalable  
-🔐 Protección Avanzada  
-
-</td>
-<td width="33%">
-
-## 📲 WhatsApp Mod
-
-🎨 Interfaz Personalizada  
-⚡ Rendimiento Optimizado  
-🤖 Integración con Bots  
-🛡️ Control Avanzado  
-🚀 Funciones Extendidas  
+✨ **IA Integrada**  
+🎮 **Sistema MultiDevice**  
+🛠️ **Administración Automática**  
+📡 **Arquitectura Escalable**  
+🔐 **Protección Avanzada**  
 
 </td>
 <td width="33%">
 
-## 🧠 Automation & IA
+## 📲 **WhatsApp Mod**
 
-🐍 Python Scripts  
-🌐 APIs Inteligentes  
-⚙️ Automatización  
-📊 Sistemas Inteligentes  
-🔐 Simulación Educativa  
+🎨 **Interfaz Personalizada**  
+⚡ **Rendimiento Optimizado**  
+🤖 **Integración con Bots**  
+🛡️ **Control Avanzado**  
+🚀 **Funciones Extendidas**  
+
+</td>
+<td width="33%">
+
+## 🧠 **Automation & IA**
+
+🐍 **Python Scripts**  
+🌐 **APIs Inteligentes**  
+⚙️ **Automatización**  
+📊 **Sistemas Inteligentes**  
+🔐 **Simulación Educativa**  
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ style="border-radius:25px;"/>
 
 ---
 
-# 🛠️ STACK TECNOLÓGICO
+# 🛠️ **STACK TECNOLÓGICO**
 
 <div align="center">
 
@@ -138,7 +138,7 @@ style="border-radius:25px;"/>
 
 ---
 
-# 📊 ESTADÍSTICAS
+# 📊 **ESTADÍSTICAS**
 
 <div align="center">
 
@@ -150,7 +150,7 @@ style="border-radius:25px;"/>
 
 ---
 
-# 🌌 PERFIL ACTIVO
+# 🌌 **PERFIL ACTIVO**
 
 <div align="center">
 
@@ -166,7 +166,7 @@ style="border-radius:25px;"/>
 
 ---
 
-# 🔗 REDES SOCIALES
+# 🔗 **REDES SOCIALES**
 
 <div align="center">
 
@@ -196,18 +196,18 @@ style="border-radius:25px;"/>
 
 ---
 
-# 💎 FRASE PERSONAL
+# 💎 **FRASE PERSONAL**
 
 <div align="center">
 
 ╔══════════════════════════════════════╗  
-║ ✨ "El código no solo se escribe…" ✨ ║  
-║ ⚡ "Se diseña, optimiza y domina." ⚡ ║  
+║ ✨ **"El código no solo se escribe…"** ✨ ║  
+║ ⚡ **"Se diseña, optimiza y domina."** ⚡ ║  
 ╚══════════════════════════════════════╝  
 
 <br>
 
-## ⚡ Anth'Zz Berrocal – BerMatCode
+## ⚡ **Anth'Zz Berrocal – BerMatCode**
 
 </div>
 
@@ -215,6 +215,6 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a020f0,100:ff00ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:a020f0,100:ff66ff&height=120&section=footer"/>
 
 </div>
