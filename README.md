@@ -24,7 +24,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-# 🚀 **PERFIL PROFESIONAL**
+# 💖 **PERFIL PROFESIONAL**
 
 <br>
 
@@ -36,25 +36,13 @@ style="border-radius:25px;"/>
 │ 🔐 **Optimización & IA**             │  
 ╰──────────────────────────────────────╯  
 
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00f7ff?style=for-the-badge&logo=icloud&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-a020f0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SECURITY-OPTIMIZED-ff00ff?style=for-the-badge&logo=shield&logoColor=white"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-# 🌐 **ÁREAS DE DESARROLLO**
+# 💖 **ÁREAS DE DESARROLLO**
 
 | 🤖 **Bots** | ⚙️ **Automatización** | 🧠 **Inteligencia Artificial** |
 |:---:|:---:|:---:|
@@ -69,7 +57,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-# ⚡ **PROYECTOS DESTACADOS**
+# 💖 **PROYECTOS DESTACADOS**
 
 <table>
 <tr>
@@ -115,7 +103,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-# 🛠️ **STACK TECNOLÓGICO**
+# 💖 **STACK TECNOLÓGICO**
 
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,bash,github,linux,vscode"/>
 
@@ -133,7 +121,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-# 📊 **ESTADÍSTICAS**
+# 💖 **ESTADÍSTICAS**
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=BerMatMods&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -147,15 +135,9 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-# 🌌 **PERFIL ACTIVO**
+# 💖 **PERFIL ACTIVO**
 
 <img src="https://komarev.com/ghpvc/?username=BerMatMods&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FOCUS-BOT_DEVELOPMENT-00f7ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/POWERED-BERMATCODE-a020f0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-ff00ff?style=for-the-badge"/>
 
 </div>
 
@@ -163,7 +145,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-# 🔗 **REDES SOCIALES**
+# 💖 **REDES SOCIALES**
 
 <a href="https://github.com/BerMatMods">
 <img src="https://img.shields.io/badge/GitHub-BerMatMods-111111?style=for-the-badge&logo=github&logoColor=00f7ff"/>
@@ -193,7 +175,7 @@ style="border-radius:25px;"/>
 
 <div align="center">
 
-# 💎 **FRASE PERSONAL**
+# 💖 **FRASE PERSONAL**
 
 ╔══════════════════════════════════════╗  
 ║ ✨ **"El código no solo se escribe…"** ✨ ║  
