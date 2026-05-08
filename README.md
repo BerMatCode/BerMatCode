@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/rw1XfGjF/1760073116-(1).png"
+<img src="https://i.postimg.cc/Px8p396F/Rounded-20260507-231054.png"
 width="100%"
 style="border-radius:25px;"/>
 
@@ -199,10 +199,10 @@ style="border-radius:25px;"/>
 
 <br>
 
-╔══════════════════════════════════════╗  
+╔══════════════════════════╗  
 ║ ✨ **"El código no solo se escribe…"** ✨ ║  
 ║ ⚡ **"Se diseña, optimiza y domina."** ⚡ ║  
-╚══════════════════════════════════════╝  
+╚══════════════════════════╝  
 
 <br><br>
 
